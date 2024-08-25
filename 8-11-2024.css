@@ -1,0 +1,50 @@
+
+     body{
+     background-image: url("azan.jpeg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     padding: 100px;
+}
+.c2{
+     color:chocolate;
+     background-color:green ;
+     text-align: center;
+     border-style: solid;
+     border-radius: 100px;
+     border-color: blueviolet;
+}
+
+
+
+#d1{
+     background-color: aqua;
+}
+
+#d2{
+     background-color: blue;
+}
+
+#cardsHolder{
+     background-color:bisque;
+     display: flex;
+     gap: 10px;
+}
+
+#card1{
+     background-color: darkgray;
+     width: 350px;
+}
+
+
+#card1 p{
+     color: black;
+     font-size: 25px;
+}
+
+#card1 img{
+     width: 250px;
+     height: 250px;
+
+     border-radius: 100%;
+}
